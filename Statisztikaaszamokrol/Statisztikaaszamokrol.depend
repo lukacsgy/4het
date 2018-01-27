@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517053896 source:d:\programozas\4het\statisztikaaszamokrol\main.c
+	<stdio.h>
+	<stdlib.h>
+
